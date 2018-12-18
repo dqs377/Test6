@@ -2,8 +2,8 @@
 //  CodeViewController.swift
 //  Test6
 //
-//  Created by sun on 2018/12/16.
-//  Copyright © 2018 孙建伟. All rights reserved.
+//  Created by 1 on 2018/12/16.
+//  Copyright © 2018 1. All rights reserved.
 //
 
 import UIKit
